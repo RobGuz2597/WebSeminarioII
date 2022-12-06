@@ -1,0 +1,289 @@
+[
+  {
+    "name": "No sirves",
+    "category": "js",
+    "score": 4,
+    "link": "/js",
+    "type": "badf"
+  },
+  {
+    "name": "Puta",
+    "category": "js",
+    "score": 2,
+    "link": "/js",
+    "type": "badf"
+  },
+  {
+    "name": "Comentarios machistas",
+    "category": "js",
+    "score": 2,
+    "link": "/js",
+    "type": "badf"
+  },
+  {
+    "name": "Whore",
+    "category": "js",
+    "score": 1,
+    "link": "/js",
+    "type": "badf"
+  },
+  {
+    "name": "Es mujer, con razón",
+    "category": "js",
+    "score": 6,
+    "link": "/js",
+    "type": "badf"
+  },
+  {
+    "name": "Estúpida",
+    "category": "js",
+    "score": 2,
+    "link": "/js",
+    "type": "badf"
+  },
+  {
+    "name": "Bot",
+    "category": "js",
+    "score": 2,
+    "link": "/js",
+    "type": "badf"
+  },
+  {
+    "name": "Que me suicide",
+    "category": "js",
+    "score": 3,
+    "link": "/js",
+    "type": "badf"
+  },
+  {
+    "name": "Basura",
+    "category": "js",
+    "score": 2,
+    "link": "/js",
+    "type": "badf"
+  },
+  {
+    "name": "Pégate un tiro en la cabeza",
+    "category": "js",
+    "score": 1,
+    "link": "/js",
+    "type": "badf"
+  },
+  {
+    "name": "Groserías",
+    "category": "js",
+    "score": 1,
+    "link": "/js",
+    "type": "badf"
+  },
+  {
+    "name": "tienes potencial",
+    "category": "js",
+    "score": 3,
+    "link": "/js",
+    "type": "goodf"
+  },
+  {
+    "name": "Que juego bien",
+    "category": "js",
+    "score": 1,
+    "link": "/js",
+    "type": "goodf"
+  },
+  {
+    "name": "Rifada",
+    "category": "js",
+    "score": 2,
+    "link": "/js",
+    "type": "goodf"
+  },
+  {
+    "name": "Awesome",
+    "category": "js",
+    "score": 1,
+    "link": "/js",
+    "type": "goodf"
+  },
+  {
+    "name": "Nos carreaste",
+    "category": "js",
+    "score": 1,
+    "link": "/js",
+    "type": "goodf"
+  },
+  {
+    "name": "Bien hecho?",
+    "category": "js",
+    "score": 2,
+    "link": "/js",
+    "type": "goodf"
+  },
+  {
+    "name": "Brillante",
+    "category": "js",
+    "score": 1,
+    "link": "/js",
+    "type": "goodf"
+  },
+  {
+    "name": "Sudaca",
+    "category": "js",
+    "score": 3,
+    "link": "/js",
+    "type": "badm"
+  },
+  {
+    "name": "Bot",
+    "category": "js",
+    "score": 3,
+    "link": "/js",
+    "type": "badm"
+  },
+  {
+    "name": "Que me suicide",
+    "category": "js",
+    "score": 2,
+    "link": "/js",
+    "type": "badm"
+  },
+  {
+    "name": "que se van a ir a jugar con otros amigos mejores",
+    "category": "js",
+    "score": 1,
+    "link": "/js",
+    "type": "badm"
+  },
+  {
+    "name": "Basura",
+    "category": "js",
+    "score": 2,
+    "link": "/js",
+    "type": "badm"
+  },
+  {
+    "name": "retard",
+    "category": "js",
+    "score": 2,
+    "link": "/js",
+    "type": "badm"
+  },
+  {
+    "name": "Tu mamá es hombre",
+    "category": "js",
+    "score": 1,
+    "link": "/js",
+    "type": "badm"
+  },
+  {
+    "name": "Pégate un tiro en la cabeza",
+    "category": "js",
+    "score": 2,
+    "link": "/js",
+    "type": "badm"
+  },
+  {
+    "name": "Pendejo",
+    "category": "js",
+    "score": 3,
+    "link": "/js",
+    "type": "badm"
+  },
+  {
+    "name": "Groserías",
+    "category": "js",
+    "score": 1,
+    "link": "/js",
+    "type": "badm"
+  },
+  {
+    "name": "Pro",
+    "category": "js",
+    "score": 1,
+    "link": "/js",
+    "type": "goodm"
+  },
+  {
+    "name": "Bueno",
+    "category": "js",
+    "score": 2,
+    "link": "/js",
+    "type": "goodm"
+  },
+  {
+    "name": "Que siempre se puede mejorar",
+    "category": "js",
+    "score": 1,
+    "link": "/js",
+    "type": "goodm"
+  },
+  {
+    "name": "me gusta tu manera de jugar champ",
+    "category": "js",
+    "score": 2,
+    "link": "/js",
+    "type": "goodm"
+  },
+  {
+    "name": "Profesional",
+    "category": "js",
+    "score": 2,
+    "link": "/js",
+    "type": "goodm"
+  },
+  {
+    "name": "Nice",
+    "category": "js",
+    "score": 1,
+    "link": "/js",
+    "type": "goodm"
+  },
+  {
+    "name": "GG",
+    "category": "js",
+    "score": 3,
+    "link": "/js",
+    "type": "goodm"
+  },
+  {
+    "name": "perdedor",
+    "category": "js",
+    "score": 1,
+    "link": "/js",
+    "type": "goodm"
+  },
+  {
+    "name": "Tryhard",
+    "category": "js",
+    "score": 1,
+    "link": "/js",
+    "type": "goodm"
+  },
+  {
+    "name": "El es bueno",
+    "category": "js",
+    "score": 2,
+    "link": "/js",
+    "type": "goodm"
+  },
+  {
+    "name": "Felicidades",
+    "category": "js",
+    "score": 1,
+    "link": "/js",
+    "type": "goodm"
+  },
+  {
+    "name": "Ganamos por paidas",
+    "category": "js",
+    "score": 1,
+    "link": "/js",
+    "type": "goodm"
+  },
+  {
+    "name": "Hacker",
+    "category": "js",
+    "score": 1,
+    "link": "/js",
+    "type": "goodm"
+  }
+]

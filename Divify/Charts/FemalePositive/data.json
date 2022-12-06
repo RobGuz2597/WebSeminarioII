@@ -1,0 +1,44 @@
+[
+  {
+    "name": "tienes potencial",
+    "category": "js",
+    "score": 3,
+    "link": "/js"
+  },
+  {
+    "name": "Que juego bien",
+    "category": "js",
+    "score": 1,
+    "link": "/js"
+  },
+  {
+    "name": "Rifada",
+    "category": "js",
+    "score": 2,
+    "link": "/js"
+  },
+  {
+    "name": "Awesome",
+    "category": "js",
+    "score": 1,
+    "link": "/js"
+  },
+  {
+    "name": "Nos carreaste",
+    "category": "js",
+    "score": 1,
+    "link": "/js"
+  },
+  {
+    "name": "Bien hecho?",
+    "category": "js",
+    "score": 2,
+    "link": "/js"
+  },
+  {
+    "name": "Brillante",
+    "category": "js",
+    "score": 1,
+    "link": "/js"
+  }
+]

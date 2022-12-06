@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Pro",
+    "category": "js",
+    "score": 1,
+    "link": "/js"
+  },
+  {
+    "name": "Bueno",
+    "category": "js",
+    "score": 2,
+    "link": "/js"
+  },
+  {
+    "name": "Que siempre se puede mejorar",
+    "category": "js",
+    "score": 1,
+    "link": "/js"
+  },
+  {
+    "name": "me gusta tu manera de jugar champ",
+    "category": "js",
+    "score": 2,
+    "link": "/js"
+  },
+  {
+    "name": "Profesional",
+    "category": "js",
+    "score": 2,
+    "link": "/js"
+  },
+  {
+    "name": "Nice",
+    "category": "js",
+    "score": 1,
+    "link": "/js"
+  },
+  {
+    "name": "GG",
+    "category": "js",
+    "score": 3,
+    "link": "/js"
+  },
+  {
+    "name": "Tryhard",
+    "category": "js",
+    "score": 1,
+    "link": "/js"
+  },
+  {
+    "name": "El es bueno",
+    "category": "js",
+    "score": 2,
+    "link": "/js"
+  },
+  {
+    "name": "Felicidades",
+    "category": "js",
+    "score": 1,
+    "link": "/js"
+  },
+  {
+    "name": "Ganamos por paidas",
+    "category": "js",
+    "score": 1,
+    "link": "/js"
+  },
+  {
+    "name": "Hacker",
+    "category": "js",
+    "score": 1,
+    "link": "/js"
+  }
+]

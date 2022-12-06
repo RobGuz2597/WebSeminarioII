@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "bootstrap-icons": "^1.10.2",
+    "d3": "^7.7.0",
+    "gsap": "^3.11.3"
+  }
+}
